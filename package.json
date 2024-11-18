@@ -1,0 +1,27 @@
+{
+  "name": "@menhera/icquai-proto-js",
+  "version": "0.1.0",
+  "description": "Protocol implementations for Icquai real-time communication app",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menhera-org/icquai-proto-js.git"
+  },
+  "author": "Menhera.org",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/menhera-org/icquai-proto-js/issues"
+  },
+  "homepage": "https://github.com/menhera-org/icquai-proto-js#readme",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
